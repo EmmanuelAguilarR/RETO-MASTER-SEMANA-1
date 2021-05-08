@@ -1,7 +1,7 @@
 # RETO MASTER SEMANA 1
-
-[<img src="https://www.educadictos.com/wp-content/uploads/2018/08/cloud-computing-portada.jpg" width="500"/>](https://www.educadictos.com/wp-content/uploads/2018/08/cloud-computing-portada.jpg)
-
+<p align="center">
+<img align="center" src="https://www.educadictos.com/wp-content/uploads/2018/08/cloud-computing-portada.jpg" width="500"/>
+</p>
 
 ## Cómputo en la Nube
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube.
