@@ -2,7 +2,7 @@
 
 ![Image of Yaktocat](https://www.educadictos.com/wp-content/uploads/2018/08/cloud-computing-portada.jpg)
 
-## Computo en la Nube
+## Cómputo en la Nube
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube.
 
 ### Precio
