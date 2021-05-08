@@ -80,3 +80,17 @@ SaaS proporciona las mismas ventajas que IaaS, pero también ofrece algunas vent
 
 
 En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
+
+###Ventajas
+* Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
+
+* Agilidad. Los usuarios pueden proporcionar al personal acceso al software más reciente de forma fácil y rápida.
+
+* Modelo de precio de pago por uso. Los usuarios pagan por el software que usan mediante un modelo de suscripción, que habitualmente es mensual o anual, independientemente de cuánto usen el software.
+
+* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar software SaaS u obtener las ventajas que este ofrece.
+
+* Flexibilidad. Los usuarios pueden acceder a los mismos datos de la aplicación desde cualquier lugar.
+
+### Desventaja
+* Limitaciones de software. Es posible que en las aplicaciones de software haya una serie de limitaciones que pueden afectar al modo en el que los usuarios trabajan. Como está usando el software tal cual, no tiene un control directo de las características. Al evaluar qué plataforma SaaS es más adecuada para una carga de trabajo, debe tener en cuenta cualquier necesidad empresarial y las limitaciones de software.
