@@ -1,5 +1,7 @@
 # RETO MASTER SEMANA 1
 
+![Image of Yaktocat](https://www.educadictos.com/wp-content/uploads/2018/08/cloud-computing-portada.jpg)
+
 ## Computo en la nube
 Es la entrega de servicios informáticos a través de Internet, lo que se conoce como la nube.
 
