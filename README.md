@@ -108,3 +108,15 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 <p align="center">
 <img src="https://www.impigertech.com/sites/default/files/styles/blog_image/public/migrated/blog/public-vs-private-vs-hybrid.jpg?itok=dpWSTvkm" width="500"/>
 </p>
+## Servicios de Azure
+
+* Proceso
+* Redes
+* Almacenamiento
+* Móvil
+* Bases de datos
+* Web
+* Internet de las cosas (IoT)
+* Macrodatos
+* Inteligencia Articial (IA)
+* DevOps
