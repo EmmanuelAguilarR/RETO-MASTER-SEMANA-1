@@ -52,23 +52,23 @@ Este modelo de servicio en la nube es el más ***similar a la administración de
 
 - Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de ***control para configurar y administrar el hardware que ejecuta una aplicación***.
 ### Plataforma como Servicio (PaaS)
-PaaS proporciona las mismas ventajas y consideraciones que IaaS***, pero ofrece algunas ventajas adicionales que es importante conocer.
+***PaaS proporciona las mismas ventajas y consideraciones que IaaS***, pero ofrece algunas ventajas adicionales que es importante conocer.
 
 Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones*** en el entorno de hospedaje administrado. 
 
 #### Ventajas
 
-- Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
+- Sin gastos de capital (CapEx). Los usuarios ***no tienen costos iniciales***.
 
-- Agilidad. PaaS es más ágil que IaaS, y no es necesario que los usuarios configuren servidores para ejecutar aplicaciones.
+- Agilidad. ***PaaS es más ágil que IaaS***, y ***no es necesario que los usuarios configuren servidores para ejecutar aplicaciones***.
 
-- Modelo basado en el consumo. Los usuarios solo pagan por lo que usan y operan bajo un modelo OpEx.
+- Modelo basado en el consumo. Los usuarios solo ***pagan por lo que usan*** y operan bajo un modelo OpEx.
 
-- Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una plataforma PaaS u obtener las ventajas que esta ofrece.
+- Aptitudes. ***No se requieren conocimientos técnicos avanzados para implementar y usar una plataforma PaaS*** u obtener las ventajas que esta ofrece.
 
-- Ventajas que ofrece la nube. Los usuarios pueden aprovechar las aptitudes y la experiencia del proveedor de nube para asegurarse de que sus cargas de trabajo sean seguras y tengan alta disponibilidad. Además, los usuarios pueden obtener acceso a más herramientas de desarrollo punteras. Entonces, las podrán aplicar al ciclo de vida de una aplicación.
+- Ventajas que ofrece la nube. Los usuarios pueden aprovechar las aptitudes y la experiencia del proveedor de nube para asegurarse de que sus ***cargas de trabajo sean seguras y tengan alta disponibilidad***. Además, los ***usuarios pueden obtener acceso a más herramientas de desarrollo punteras***. Entonces, las podrán aplicar al ciclo de vida de una aplicación.
 
-- Productividad. Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. Trabajar con equipos distribuidos como servicios es más fácil, ya que se accede a la plataforma a través de Internet. Puede hacer que la plataforma esté disponible globalmente de forma más sencilla.
+- Productividad. Los ***usuarios se pueden centrar únicamente en el desarrollo de aplicaciones***, ya que el ***proveedor de nube lleva a cabo toda la administración de plataformas***. ***Trabajar con equipos distribuidos como servicios es más fácil, ya que se accede a la plataforma a través de Internet***. Puede hacer que la plataforma esté disponible globalmente de forma más sencilla.
 
 #### Desventaja
 
