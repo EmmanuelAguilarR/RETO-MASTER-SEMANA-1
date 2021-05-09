@@ -33,28 +33,28 @@ La informática en la nube es la prestación de servicios informáticos a travé
 ## Modelos de Servicio en la Nube
 
 ### Infraestructura como Servicio (IaaS)
-IaaS es la categoría más flexible de servicios en la nube. Su objetivo es ofrecer un control completo sobre el hardware que ejecuta la aplicación. En vez de comprar hardware, con IaaS, se alquila.
+IaaS es la categoría ***más flexible de servicios en la nube***. Su objetivo es ofrecer un ***control completo sobre el hardware que ejecuta la aplicación***. En vez de comprar ***hardware, con IaaS, se alquila***.
 
-Este modelo de servicio en la nube es el más similar a la administración de servidores físicos; un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso. Configurar una máquina virtual nueva es considerablemente más rápido que obtener, instalar y configurar un servidor físico.
+Este modelo de servicio en la nube es el más ***similar a la administración de servidores físicos***; un ***proveedor de servicios en la nube mantendrá actualizado el hardware***, pero el ***mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube***. Una ***ventaja*** de este modelo de servicio en la nube es la ***rápida implementación de nuevos dispositivos de proceso***. Configurar una máquina virtual nueva es considerablemente más rápido que obtener, instalar y configurar un servidor físico.
 
 #### Ventajas
-* Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
+* Sin gastos de capital (CapEx). Los usuarios ***no tienen costos iniciales***.
 
-* Agilidad. Se pueden configurar las aplicaciones con rapidez para que sean accesibles y desaprovisionarlas cuando sea necesario.
+* Agilidad. Se pueden ***configurar las aplicaciones con rapidez*** para que sean accesibles y desaprovisionarlas cuando sea necesario.
 
-* Administración. Se aplica el modelo de responsabilidad compartida; el usuario administra y mantiene los servicios que ha aprovisionado, y el proveedor de nube administra y mantiene la infraestructura en la nube.
+* Administración. Se aplica el modelo de responsabilidad compartida; el ***usuario administra y mantiene los servicios que ha aprovisionado, y el proveedor de nube administra y mantiene la infraestructura en la nube***.
 
-* Modelo basado en el consumo. Las organizaciones solo pagan por lo que usan y operan en un modelo de gastos operativos (OpEx).
+* Modelo basado en el consumo. Las organizaciones solo ***pagan por lo que usan*** y operan en un modelo de gastos operativos (OpEx).
 
-* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una nube pública u obtener las ventajas que esta ofrece. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo sean seguras, estén protegidas y tengan alta disponibilidad.
+* Aptitudes. ***No se requieren conocimientos técnicos avanzados para implementar y usar una nube pública*** u obtener las ventajas que esta ofrece. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo sean seguras, estén protegidas y tengan alta disponibilidad.
 
-* Ventajas que ofrece la nube. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las cargas de trabajo se configuren de forma que sean seguras y tengan alta disponibilidad.
+* Ventajas que ofrece la nube. Las organizaciones pueden utilizar las aptitudes y la experiencia del proveedor de nube para asegurarse de que las ***cargas de trabajo se configuren de forma que sean seguras y tengan alta disponibilidad***.
 
-- Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.
+- Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de ***control para configurar y administrar el hardware que ejecuta una aplicación***.
 ### Plataforma como Servicio (PaaS)
-PaaS proporciona las mismas ventajas y consideraciones que IaaS, pero ofrece algunas ventajas adicionales que es importante conocer.
+PaaS proporciona las mismas ventajas y consideraciones que IaaS***, pero ofrece algunas ventajas adicionales que es importante conocer.
 
-Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
+Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones*** en el entorno de hospedaje administrado. 
 
 #### Ventajas
 
