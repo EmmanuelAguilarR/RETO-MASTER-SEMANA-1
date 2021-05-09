@@ -105,3 +105,6 @@ Los servicios se ofrecen a través de la red Internet pública y están disponib
 Una nube privada consta de recursos informáticos que determinados usuarios de una empresa u organización usan en exclusiva. Una nube privada puede estar ubicada físicamente en el centro de datos local (entorno local) de la organización o estar hospedada por un proveedor de servicios de terceros.
 ### Nube Híbrida
 Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+<p align="center">
+<img src="https://www.impigertech.com/sites/default/files/styles/blog_image/public/migrated/blog/public-vs-private-vs-hybrid.jpg?itok=dpWSTvkm" width="500"/>
+</p>
