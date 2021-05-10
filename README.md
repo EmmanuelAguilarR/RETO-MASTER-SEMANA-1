@@ -47,7 +47,7 @@ IaaS es la categoría ***más flexible de servicios en la nube***. Su objetivo e
 Este modelo de servicio en la nube es el más ***similar a la administración de servidores físicos***; un ***proveedor de servicios en la nube mantendrá actualizado el hardware***, pero el ***mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube***. Una ***ventaja*** de este modelo de servicio en la nube es la ***rápida implementación de nuevos dispositivos de proceso***. Configurar una máquina virtual nueva es considerablemente más rápido que obtener, instalar y configurar un servidor físico.
 
 #### Ventajas
-* Sin gastos de capital (CapEx). Los usuarios ***no tienen costos iniciales***.
+* Sin gastos de capital (CapEx). Los ***usuarios no tienen costos iniciales***.
 
 * Agilidad. Se pueden ***configurar las aplicaciones con rapidez*** para que sean accesibles y desaprovisionarlas cuando sea necesario.
 
@@ -67,7 +67,7 @@ Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***E
 
 #### Ventajas
 
-- Sin gastos de capital (CapEx). Los usuarios ***no tienen costos iniciales***.
+- Sin gastos de capital (CapEx). Los ***usuarios no tienen costos iniciales***.
 
 - Agilidad. ***PaaS es más ágil que IaaS***, y ***no es necesario que los usuarios configuren servidores para ejecutar aplicaciones***.
 
@@ -85,33 +85,33 @@ Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***E
 
 ### Software como Servicio (SaaS)
 
-SaaS es software que se hospeda y administra de forma centralizada para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
+******SaaS es software que se hospeda y administra de forma centralizada*** para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
 
-SaaS proporciona las mismas ventajas que IaaS, pero también ofrece algunas ventajas adicionales que es importante conocer.
+***SaaS proporciona las mismas ventajas que IaaS***, pero también ofrece algunas ventajas adicionales que es importante conocer.
 
-En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
+En este modelo de servicio en la nube, ***el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación*** administrada por el proveedor de servicios en la nube.
 
 #### Ventajas
-* Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
+* Sin gastos de capital (CapEx). Los ***usuarios no tienen costos iniciales***.
 
-* Agilidad. Los usuarios pueden proporcionar al personal acceso al software más reciente de forma fácil y rápida.
+* Agilidad. Los usuarios pueden proporcionar al personal ***acceso al software más reciente de forma fácil y rápida***.
 
-* Modelo de precio de pago por uso. Los usuarios pagan por el software que usan mediante un modelo de suscripción, que habitualmente es mensual o anual, independientemente de cuánto usen el software.
+* Modelo de precio de pago por uso. Los usuarios pagan por el software que usan mediante un ***modelo de suscripción, que habitualmente es mensual o anual, independientemente de cuánto usen el software***.
 
-* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar software SaaS u obtener las ventajas que este ofrece.
+* Aptitudes. ***No se requieren conocimientos técnicos avanzados para implementar y usar software SaaS*** u obtener las ventajas que este ofrece.
 
-* Flexibilidad. Los usuarios pueden acceder a los mismos datos de la aplicación desde cualquier lugar.
+* Flexibilidad. Los usuarios pueden ***acceder a los mismos datos de la aplicación desde cualquier lugar***.
 
 #### Desventaja
-* Limitaciones de software. Es posible que en las aplicaciones de software haya una serie de limitaciones que pueden afectar al modo en el que los usuarios trabajan. Como está usando el software tal cual, no tiene un control directo de las características. Al evaluar qué plataforma SaaS es más adecuada para una carga de trabajo, debe tener en cuenta cualquier necesidad empresarial y las limitaciones de software.
+* Limitaciones de software. Es posible que en las ***aplicaciones de software haya una serie de limitaciones que pueden afectar al modo en el que los usuarios trabajan***. Como está usando el software tal cual, ***no tiene un control directo de las características***. Al evaluar qué plataforma SaaS es más adecuada para una carga de trabajo, debe tener en cuenta cualquier necesidad empresarial y las limitaciones de software.
 
 ## Modelos de Implementación en la Nube
 ### Nube Pública
-Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube, como los servidores y el almacenamiento, son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
+Los ***servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos***. Los recursos de nube, como los servidores y el almacenamiento, son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
 ### Nube Privada
-Una nube privada consta de recursos informáticos que determinados usuarios de una empresa u organización usan en exclusiva. Una nube privada puede estar ubicada físicamente en el centro de datos local (entorno local) de la organización o estar hospedada por un proveedor de servicios de terceros.
+Una nube privada consta de ***recursos informáticos que determinados usuarios de una empresa u organización usan en exclusiva***. Una nube privada puede estar ubicada físicamente en el centro de datos local (entorno local) de la organización o estar hospedada por un proveedor de servicios de terceros.
 ### Nube Híbrida
-Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+Una nube híbrida es un entorno informático que ***combina una nube pública y una nube privada***, lo que permite compartir datos y aplicaciones entre ellas.
 <p align="center">
 <img src="https://www.impigertech.com/sites/default/files/styles/blog_image/public/migrated/blog/public-vs-private-vs-hybrid.jpg?itok=dpWSTvkm" width="500"/>
 </p>
