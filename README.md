@@ -26,6 +26,11 @@ La informática en la nube es la prestación de servicios informáticos a travé
 *	Recuperación ante desastres: al usar los servicios de ***copia de seguridad basados en la nube***, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de ***saber que los datos están protegidos en caso de que se produzca un desastre***.
 
 ### Gastos de Capital Vs Gastos Operativos
+
+<p align="center">
+<img src="https://www.softwebsolutions.com/wp-content/uploads/2018/04/Factory-Gif-min.gif" width="500"/>
+</p>
+
 * Los gastos de capital (CapEx) hacen referencia a la ***inversión previa de dinero en infraestructura física***, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx ***tiene un valor que disminuye con el tiempo***.
 
 * Los gastos operativos (OpEx) son dinero que se invierte en ***servicios o productos y se factura al instante***. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que ***se paga por un servicio o producto a medida que se usa***.
@@ -110,7 +115,7 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 </p>
 
 ## Servicios de Azure
-<img align="right" width="500" src="https://www.softwebsolutions.com/wp-content/uploads/2018/04/Factory-Gif-min.gif">
+<img align="right" width="500" src="https://www.cmarix.com/blog/wp-content/uploads/2020/06/Microsoft-Azure.gif">
 
 * Proceso
 * Redes
