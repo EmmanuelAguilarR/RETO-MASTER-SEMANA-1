@@ -81,7 +81,7 @@ Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***E
 
 #### Desventaja
 
-- Limitaciones de la plataforma. Es posible que en las plataformas en la nube haya una serie de limitaciones que pueden afectar al modo en el que una aplicación se ejecuta***. Al evaluar qué plataforma PaaS es más adecuada para una carga de trabajo, debe tener en cuenta las limitaciones de esta área.
+- Limitaciones de la plataforma. Es posible que en las ***plataformas en la nube haya una serie de limitaciones que pueden afectar al modo en el que una aplicación se ejecuta***. Al evaluar qué plataforma PaaS es más adecuada para una carga de trabajo, debe tener en cuenta las limitaciones de esta área.
 
 ### Software como Servicio (SaaS)
 
