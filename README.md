@@ -85,7 +85,7 @@ Este modelo de servicio en la nube es un entorno de hospedaje administrado. ***E
 
 ### Software como Servicio (SaaS)
 
-******SaaS es software que se hospeda y administra de forma centralizada*** para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
+***SaaS es software que se hospeda y administra de forma centralizada*** para usted y sus usuarios o clientes. Normalmente se usa una versión de la aplicación para todos los clientes y la licencia se obtiene mediante una suscripción mensual o anual.
 
 ***SaaS proporciona las mismas ventajas que IaaS***, pero también ofrece algunas ventajas adicionales que es importante conocer.
 
