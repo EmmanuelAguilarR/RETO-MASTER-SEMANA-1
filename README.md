@@ -8,12 +8,12 @@
 Es la ***entrega de servicios informáticos a través de Internet***, lo que se conoce como la ***nube***.
 
 ### Precio
-
+#<div style="text-align: justify">
 La informática en la nube es la prestación de servicios informáticos a través de Internet mediante un ***modelo de precios de pago por uso***. Normalmente solo se paga por los servicios en la nube que se usan, lo que permite:
 * Reducir los costos operativos.
 * Ejecutar la infraestructura de forma más eficaz.
 * Escalar a medida que cambien las necesidades empresariales.
-
+#<div/>
 
 ### Ventajas
 * Alta disponibilidad: en función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una ***experiencia de usuario continua sin tiempo de inactividad perceptible***, aunque se produzcan errores.
