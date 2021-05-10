@@ -110,6 +110,7 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 </p>
 
 ## Servicios de Azure
+<img align="right" width="500" src="https://www.softwebsolutions.com/wp-content/uploads/2018/04/Factory-Gif-min.gif">
 
 * Proceso
 * Redes
