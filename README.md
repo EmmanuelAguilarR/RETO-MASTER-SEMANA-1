@@ -36,6 +36,9 @@ La informática en la nube es la prestación de servicios informáticos a travé
 * Los gastos operativos (OpEx) son dinero que se invierte en ***servicios o productos y se factura al instante***. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que ***se paga por un servicio o producto a medida que se usa***.
 
 ## Modelos de Servicio en la Nube
+<p align="center">
+<img src="https://i.pinimg.com/originals/c7/ae/51/c7ae512853898ce32fefb774d50d5653.png" width="500"/>
+</p>
 
 ### Infraestructura como Servicio (IaaS)
 IaaS es la categoría ***más flexible de servicios en la nube***. Su objetivo es ofrecer un ***control completo sobre el hardware que ejecuta la aplicación***. En vez de comprar ***hardware, con IaaS, se alquila***.
@@ -115,7 +118,7 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 </p>
 
 ## Servicios de Azure
-<img align="right" width="500" src="https://www.cmarix.com/blog/wp-content/uploads/2020/06/Microsoft-Azure.gif">
+<img align="right" width="400" src="https://www.cmarix.com/blog/wp-content/uploads/2020/06/Microsoft-Azure.gif">
 
 * Proceso
 * Redes
